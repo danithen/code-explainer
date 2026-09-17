@@ -17,8 +17,7 @@ the code to an LLM through the Duke AI Gateway and returns:
 
 - Python
 - Streamlit
-- OpenAI Python SDK
-- Duke AI Gateway
+- LiteLLM API/SDK
 - uv
 - Docker
 
