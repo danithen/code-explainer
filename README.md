@@ -1,7 +1,8 @@
 # Explain My Code
 
 An LLM-powered Python code explanation tool.
-
+## AI Usage Disclaimer:
+ChatGPT (GPT-5.6 Luna), September 15-16, 2026: Used AI assistance to develop and document the Code Explainer application (app.py, Dockerfile, README, etc.). I created the Git repository setup, reviewed code and adapted for the project. I changed the streamlit configuration to only expose the localhost page, updated the model call to point to the proper model, and reworked the code to use litellm instead of openai so I could tinker with other models.
 ## What it does
 
 Users paste Python code into the application. The application sends
